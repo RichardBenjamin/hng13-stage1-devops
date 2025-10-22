@@ -38,7 +38,7 @@ Before running the script, ensure you have:
 ## ⚙️ Setup & Usage
 
 ### 1. Clone this Repository
-`git clone https://github.com/CloudFay/hng13-stage1-devops.git`
+`git clone https://github.com/RichardBenjamin/hng13-stage1-devops.git`
 
 `cd hng13-stage1-devops`
 
@@ -84,6 +84,3 @@ All actions are logged with timestamps in:
 `logs/deploy_YYYYMMDD.log`
 
 ---
-
-## 👨‍💻 Author: Faith Omobude
-`DevOps Intern — HNG13 🚀`
