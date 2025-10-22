@@ -132,7 +132,7 @@ ssh -i "$SSH_Key" "$SSH_User@$Server_Ip" << EOF
     docker run -d -p ${APP_Port}:${APP_Port} --name hng-task1-app hng-task1-app
   fi
 
-  echo "✅ Application deployed successfully!"
+  echo " Application deployed successfully!"
 EOF
 
 sleep 1
